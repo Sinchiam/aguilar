@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(57, 86, 57);
+}
+.title{
+    color: whitesmoke;
+    text-align: center;
+}
+.text{
+    color: whitesmoke;
+    text-align: justify;
+    text-decoration: dotted;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 24px;
+}
+img{
+    width: 300px;
+    padding: 5px;
+    margin: 40px;
+    height: 7%;
+}
